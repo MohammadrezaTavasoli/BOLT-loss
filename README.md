@@ -3,7 +3,7 @@
 > **Implementation & reproducibility companion for the ICASSP 2025 paper  
 > “Universal Training of Neural Networks to Achieve Bayes Optimal Classification Accuracy.”**
 
-This repository provides a **clean PyTorch reference implementation** of the **B**ayes‑optimal **O**ptimal **L**earning **T**hreshold (BOLT) loss together with
+This repository provides a ** PyTorch reference implementation** of the **B**ayes‑optimal **O**ptimal **L**earning **T**hreshold (BOLT) loss together with
 Jupyter notebooks and scripts that reproduce the experiments reported in the paper.
 
 ---
