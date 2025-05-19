@@ -30,8 +30,6 @@ BOLT-loss/
 │   ├── MNIST.ipynb
 │   ├── Fashion_MNIST_BOLT_vs_CE.ipynb
 │   └── Cifar10_BOLT_loss.ipynb
-├── examples/                 ← minimal train / eval scripts
-├── requirements.txt
 └── README.md                 ← you are here
 ```
 
