@@ -32,7 +32,7 @@ BOLT-loss/
 │   ├── MNIST BOLT-loss.ipynb
 │   ├── Fashion_MNIST_BOLT_vs_CE.ipynb
 │   ├── Cifar10_BOLT_loss.ipynb
-│   ├── MNIST-BOLT TSNE Visualization.ipynb.ipynb
+│   ├── MNIST-BOLT TSNE Visualization.ipynb
 |   └── A Practical Comparison of BOLT-Optimized Neural Networks and Density-Based Bayes Error Bounds.ipynb
 └── README.md                 ← you are here
 ```
