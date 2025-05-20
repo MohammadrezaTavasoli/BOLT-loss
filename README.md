@@ -95,21 +95,6 @@ def BOLT_loss(logits: torch.Tensor,
     raise ValueError("norm must be 'l1' or 'l2'")
 ```
 
----
-
-## 📊 Reproducing the paper
-
-Open any notebook in `notebooks/` and run it end‑to‑end; results, plots and
-LaTeX‑ready tables will be generated automatically.
-
-| Dataset   | Model      | BOLT | Cross‑entropy |
-|-----------|------------|------|---------------|
-| CIFAR‑10  | ResNet‑18  | **93.29 %** | 91.95 % |
-| IMDb      | BERT‑base  | **94.56 %** | 93.51 % |
-| MNIST     | 4‑layer CNN | 99.29 % | 99.29 % |
-
----
-
 ## 📝 Citation
 
 ```bibtex
