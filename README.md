@@ -55,7 +55,7 @@ pip install -r requirements.txt         # torch ≥ 2.2, torchvision, numpy, �
 ## 🚀 Quick start (script)
 
 ```bash
-python examples/train_cifar10.py --epochs 100 --loss bolt
+python train_cifar10.py --epochs 100 --batch-size 128 --norm l2 --save-model
 ```
 
 *Expected accuracy:* ≈ **93.3 %** on CIFAR‑10 with ResNet‑18.
