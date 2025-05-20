@@ -24,6 +24,8 @@ BOLT           → minimises an upper bound on Bayes error
 
 ```
 BOLT-loss/
+├── examples/
+│   └── train_cifar10.py
 ├── bolt_loss.py              ← stand‑alone PyTorch implementation
 ├── notebooks/                ← demo & reproduction notebooks
 │   ├── toy_example.ipynb
