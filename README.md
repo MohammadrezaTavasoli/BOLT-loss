@@ -29,9 +29,11 @@ BOLT-loss/
 ├── bolt_loss.py              ← stand‑alone PyTorch implementation
 ├── notebooks/                ← demo & reproduction notebooks
 │   ├── toy_example.ipynb
-│   ├── MNIST.ipynb
+│   ├── MNIST BOLT-loss.ipynb
 │   ├── Fashion_MNIST_BOLT_vs_CE.ipynb
-│   └── Cifar10_BOLT_loss.ipynb
+│   ├── Cifar10_BOLT_loss.ipynb
+│   ├── MNIST-BOLT TSNE Visualization.ipynb.ipynb
+|   └── A Practical Comparison of BOLT-Optimized Neural Networks and Density-Based Bayes Error Bounds.ipynb
 └── README.md                 ← you are here
 ```
 
