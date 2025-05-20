@@ -1,0 +1,16 @@
+# requirements.txt – BOLT‑loss reference environment
+#
+# Install with:
+#   pip install -r requirements.txt
+#
+# Notes:
+# * Choose the appropriate PyTorch wheel for your platform/CUDA/MPS level.
+# * Versions are lower‑bounds; newer minor releases should remain compatible.
+
+torch>=2.2
+torchvision>=0.17
+numpy>=1.26
+tqdm>=4.66
+matplotlib>=3.8
+scikit-learn>=1.5
+jupyterlab>=4.2
